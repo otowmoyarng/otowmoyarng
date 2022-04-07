@@ -25,8 +25,15 @@ RestfulなURLをじっくり設計したり、リファクタリングするこ�
 熱量多すぎて変態扱いされることもあり。<br/>
 [![Twitter: hidemusiam](https://img.shields.io/twitter/follow/hidemusiam?style=social)](https://twitter.com/hidemusiam)
 
-# My career
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otowmoyarng&theme=vue)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otowmoyarng&show_icons=true)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otowmoyarng&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+## My career
 15年ほどシステムエンジニアとして働いています。<br/>
 主にwebアプリケーションの開発や保守をしております。<br/>
 設計からリリースまでの開発経験があります。
@@ -38,17 +45,11 @@ HTMLやCSS、Javascriptはほどほどに使用できます。<br/>
 各スキルごとの詳細はこちらをご覧ください→
 https://crowdworks.jp/public/employees/1152741/occupations
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otowmoyarng&theme=vue)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otowmoyarng&show_icons=true)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otowmoyarng&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-# Activity
-
+## Activity
 アウトプットしてきた活動履歴やQiitaやGithubのについてはこちらをご覧ください→
 https://lapras.com/public/VAKCIBK
 
-# Coding rules
+## Coding rules 
+<details>
+<summary></summary>
+</details>
