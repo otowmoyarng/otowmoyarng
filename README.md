@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 RestfulなURLをじっくり設計したり、リファクタリングすることが好き。<br/>
 熱量多すぎて変態扱いされることもあり。<br/>
 [![Twitter: hidemusiam](https://img.shields.io/twitter/follow/hidemusiam?style=social)](https://twitter.com/hidemusiam)
+[![](https://img.shields.io/badge/-Qiita-%2355C500)](https://qiita.com/UT_BackendEngineer)
+[![](https://img.shields.io/badge/-connpass-%23EB1923)](https://connpass.com/user/hidemusiam1/)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
  
