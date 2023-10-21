@@ -40,7 +40,7 @@ RestfulなURLをじっくり設計したり、リファクタリングするこ�
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otowmoyarng&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-## My career
+## Skills
 
 JavaやC#を用いた開発を長く経験しています。<br/>
 HTMLやCSS、Javascriptはほどほどに使用できます。<br/>
@@ -127,3 +127,7 @@ HTMLやCSS、Javascriptはほどほどに使用できます。<br/>
 ## Activity
 アウトプットしてきた活動履歴やQiitaやGithubのについてはこちらをご覧ください→
 https://lapras.com/public/VAKCIBK
+
+## My career
+
+スキルシートの詳細は[こちら](https://docs.google.com/spreadsheets/d/1d8BAVBZf-HzOsKkLx4P8FeEQqZIrZNBw/edit?usp=sharing&ouid=102669397807724037972&rtpof=true&sd=true)
