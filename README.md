@@ -130,4 +130,4 @@ https://lapras.com/public/VAKCIBK
 
 ## My career
 
-ここに書く
+スキルシートの詳細は[こちら](https://docs.google.com/spreadsheets/d/1d8BAVBZf-HzOsKkLx4P8FeEQqZIrZNBw/edit?usp=sharing&ouid=102669397807724037972&rtpof=true&sd=true)
