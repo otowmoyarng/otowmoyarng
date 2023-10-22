@@ -1,10 +1,3 @@
-# PR
-13年ほどソフトウェアエンジニアに従事しています。
-開発言語としてはC#とJavaが最も得意で、要件定義からリリースまでを担当することが多いです。
-
-年間250回程度の社外勉強会に参加しています。登壇することもあります。
-様々なエンジニアと交流することを自分の成長の糧としています。
-
 # Career
 
 <details>
@@ -12,10 +5,10 @@
 
 # 概要
 下記の社内システムや基盤システムの開発及び保守をしております。
-・勤怠工数管理システム
-・業務管理システム
-・人事管理システム
-・アカウント管理システム
+- 勤怠工数管理システム
+- 業務管理システム
+- 人事管理システム
+- アカウント管理システム
 
 # 期間
 2021/06～現在
@@ -23,23 +16,24 @@
 # チームでの役割
 ソフトウェアエンジニア、ＱＡエンジニアとして、
 設計、開発、テスト、リリース、Ｑ＆Ａを担当しておりました。
+
 チームは3人体制
 
 # 技術スタック
 
 ## 言語
-C#
-HTML5
-CSS
-JavaScript
-TypeScript
-SQL
+- C#
+- HTML5
+- CSS
+- JavaScript
+- TypeScript
+- SQL
 
 ## フレームワーク
-ASP.NET4.8
-knockout.js
-EntityFramework 6.x
-Bootstrap 4.x
+- ASP.NET4.8
+- knockout.js
+- EntityFramework 6.x
+- Bootstrap 4.x
 
 ## DB
 SQLServer 14
@@ -60,6 +54,7 @@ Azure
 # 概要
 オンラインシステムのUIをHTML5＋Vue.jsに変換する案件。 
 変換できない部分は機能改善として別途対応しました。
+
 プログラムの変換はオフショアに依頼しており、受入試験を行う。
 
 # 期間
@@ -67,24 +62,24 @@ Azure
 
 # チームでの役割
 テストエンジニアとして、リグレッションテスト（仕様書作成・レビュー）を担当しておりました。
+
 また6人のテストチームでリーダーをしており、テストスケジュールの管理とチーム内のＱＡ対応をしておりました。
 
 # 技術スタック
 
 ## 言語
-Java7
-Flex
-HTML5
-CSS
-TypeScript
-SQL
+- Java7
+- HTML5
+- CSS
+- TypeScript
+- SQL
 
 ## フレームワーク
-Vue.js 2x
-Spring2.5.1
-SVF For PDF Java9.2
-iBatis/MyBatis2.3.0
-TERASOLUNA Server for Java 2.0.2
+- Vue.js 2x
+- Spring2.5.1
+- SVF For PDF Java9.2
+- iBatis/MyBatis2.3.0
+- TERASOLUNA Server for Java 2.0.2
 
 ## DB
 Oracle12cR1
@@ -99,32 +94,34 @@ Oracle12cR1
 <summary>公共向けシステムの法改正対応</summary>
 
 # 概要
-公共インフラの法的分離に伴う法改正案件。
+公共インフラの法的分離に伴う法改正案件
+
 CSVファイルから取り込んだ取引先をグルーピングし、
-他システムへファイルを連携する中継システム（オンライン＋バッチ）を新規開発した
+他システムへファイルを連携する中継システム（オンライン＋バッチ）を新規開発しました。
 
 # 期間
 2019/06～2020/03
 
 # チームでの役割
 テストエンジニアとして、リグレッションテスト（仕様書作成・レビュー）を担当しておりました。
+
 また3人の開発チームでリーダーをしており、テストスケジュールの管理とチーム内のＱＡ対応をしておりました。
 
 # 技術スタック
 
 ## 言語
-Java8
-HTML5
-CSS
-JavaScript
-SQL
+- Java8
+- HTML5
+- CSS
+- JavaScript
+- SQL
 
 ## フレームワーク
-SpringWeb 4.3.x
-SpringBatch 4.1.3
-MyBatis 3.2.8
-Thymeleaf 3.0.4
-jBoss6.3
+- SpringWeb 4.3.x
+- SpringBatch 4.1.3
+- MyBatis 3.2.8
+- Thymeleaf 3.0.4
+- jBoss6.3
 
 ## DB
 Postgres 11
@@ -140,9 +137,9 @@ Postgres 11
 
 # 概要
 衣服の原材料を販売するwebシステムの保守をしておりました。
-・オンライン注文システム
-・倉庫側管理システム
-・webAPI
+- オンライン注文システム
+- 倉庫側管理システム
+- webAPI
 
 # 期間
 2018/09～2019/03
@@ -153,20 +150,20 @@ Postgres 11
 
 また、開発生産性が悪かったので、以下の内容を当時のリーダーに提案して取り入れていただきました。
 
-・SVNを用いたブランチ管理ルールの整備
-・リリース手順の整備
-・ローカル環境でCI/CDを実行できるバッチファイルの作成
-・ステージング環境構築
+- SVNを用いたブランチ管理ルールの整備
+- リリース手順の整備
+- ローカル環境でCI/CDを実行できるバッチファイルの作成
+- ステージング環境構築
 
 # 技術スタック
 
 ## 言語
-Java8
-SQL
+- Java8
+- SQL
 
 ## フレームワーク
-SpringFramework 4.x
-Spark 2.x
+- SpringFramework 4.x
+- Spark 2.x
 
 ## DB
 Oracle11g
@@ -191,21 +188,22 @@ Oracle11g
 
 # チームでの役割
 福祉系業務でのパッケージ導入支援をしておりました。
+
 また、パッケージ開発元に在籍した経験を活かして、アップデート情報の取りまとめとカスタマイズ機能への検証もしておりました。
 
 # 技術スタック
 
 ## 言語
-C#
-Java(5,6)
-SQL
-PL/SQL
+- C#
+- Java(5,6)
+- SQL
+- PL/SQL
 
 ## フレームワーク
-.NET Framework 2.0
-Seasar2
-tomcat5.x
-SVFX-designer
+- .NET Framework 2.0
+- Seasar2
+- tomcat5.x
+- SVFX-designer
 
 ## DB
 Oracle10g,11g
@@ -228,22 +226,24 @@ Oracle10g,11g
 # チームでの役割
 福祉系業務においてソフトウェアエンジニアに従事し、
 要件定義･基本設計･詳細設計･コーディング･単体テスト･結合テスト･リリースを担当しておりました
+
 また、ソースコードレビューも担当おり、チーム内の技術面でのメンターとして在籍させていただきました。
+
 それにより、品質管理チームからもサポート依頼があり、設計書や単体テスト仕様書のテンプレートを協議しておりました。
 
 # 技術スタック
 
 ## 言語
-C#
-Java(5,6)
-SQL
-PL/SQL
+- C#
+- Java(5,6)
+- SQL
+- PL/SQL
 
 ## フレームワーク
-.NET Framework 2.0
-Seasar2
-tomcat5.x
-SVFX-designer
+- .NET Framework 2.0
+- Seasar2
+- tomcat5.x
+- SVFX-designer
 
 ## DB
 Oracle10g,11g
