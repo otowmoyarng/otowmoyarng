@@ -29,7 +29,7 @@ RestfulなURLをじっくり設計したり、リファクタリングするこ�
 様々なエンジニアと交流することを自分の成長の糧としています。
 
 [![Twitter: hidemusiam](https://img.shields.io/twitter/follow/hidemusiam?style=social)](https://twitter.com/hidemusiam)
-[![](https://img.shields.io/badge/-Qiita-%2355C500)](https://qiita.com/UT_BackendEngineer)
+[![](https://img.shields.io/badge/-Qiita-%2355C500)](https://qiita.com/UT_ITDaiku)
 [![](https://img.shields.io/badge/-connpass-%23EB1923)](https://connpass.com/user/hidemusiam1/)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
